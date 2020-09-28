@@ -1,4 +1,4 @@
 # MVVM-Breaking-News-App
 MVVM Breaking News App with Kotlin
 
-![GitHub Logo](/images/logo.png)
+![MVVM Breaking News App](https://lh3.googleusercontent.com/NApEtlaHEI3eUwKGSDsdBc7IdmC0Dxx7QYN6R4gq5YLgopWEw0_ZCkxG7VOE84PcveI=w720-h310-rw)
